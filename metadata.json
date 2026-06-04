@@ -1,0 +1,6 @@
+{
+  "name": "PetalDrop",
+  "description": "A personal flower delivery and payment management app for single flower vendors, supporting English and Kannada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
